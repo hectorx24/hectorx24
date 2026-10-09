@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- RETRO TERMINAL BANNER -->
-<a href="https://github.com/hectorx24">
+<a href="https://hector-portfolio-sigma.vercel.app/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
@@ -12,6 +12,15 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=H%C3%A9ctor+L%C3%B3pez+%E2%80%94+Founder+%26+Developer%3BAeterna+Labs+%E2%80%A2+Sonora%2C+Mexico%3BAI+Products+%7C+Experimental+UIs+%7C+TV+Systems%3BBuilding+Aura+%E2%80%A2+Deep+RPG+%E2%80%A2+DualMind+%E2%80%A2+Creator+TV" alt="Typing SVG Banner">
+
+<br><br>
+
+<a href="https://hector-portfolio-sigma.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✦_VISIT_PORTFOLIO-hector--portfolio--sigma.vercel.app-00f0ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" alt="Live Portfolio Website">
+</a>&nbsp;&nbsp;
+<a href="https://www.aeternalabs.lat" target="_blank">
+  <img src="https://img.shields.io/badge/STUDIO-aeternalabs.lat-76D8D2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=17171C" alt="Aeterna Labs Studio">
+</a>
 
 </div>
 
