@@ -124,8 +124,11 @@
 
 <div align="center">
 
+<a href="https://hector-portfolio-sigma.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-hector--portfolio-F78CA0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Personal Portfolio">
+</a>&nbsp;&nbsp;
 <a href="https://www.aeternalabs.lat" target="_blank">
-  <img src="https://img.shields.io/badge/Website-aeternalabs.lat-76D8D2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=17171C" alt="Website">
+  <img src="https://img.shields.io/badge/Studio-aeternalabs.lat-76D8D2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=17171C" alt="Aeterna Labs Studio">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/h%C3%A9ctor-enrique-l%C3%B3pez-carrazco-41b507428" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-H%C3%A9ctor_L%C3%B3pez-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
